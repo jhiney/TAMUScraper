@@ -16,6 +16,7 @@ namespace TAMUScraper
 			var ProfileLinks = new List<string>();
 			var names = new List<string>();
 			var emails = new List<string>();
+			//TODO: Need to rename variables to be more readable
 			var stronk = new List<string>();
 			var dept = new List<string>();
 
